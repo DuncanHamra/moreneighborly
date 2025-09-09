@@ -1,5 +1,7 @@
 # moreneighborly - Webflow Scripts
 
+[![Deploy to GitHub Pages](https://github.com/DuncanHamra/moreneighborly/actions/workflows/deploy.yml/badge.svg)](https://github.com/DuncanHamra/moreneighborly/actions/workflows/deploy.yml)
+
 ## 📋 STEP 1: Add This Code to Webflow
 
 **Copy this ENTIRE code block to: Webflow → Site Settings → Custom Code → Head Code**
